@@ -2,7 +2,7 @@ import { NextResponse } from "next/server"
 
 // Credentials stored in code as requested (BE CAREFUL: this is not secure for production)
 const PAGE_ID = "111378218725444"
-const PAGE_TOKEN = "EAALreEAROE0BP1KYKPLKsn7faqvsSSlzVQ7umo0TI6aBTXQe8IYqSmtaJFbhZBaD7FPgtVwckkRVpA5plpmz8EzDBeTBWiv2RZAJr0ZCjzKyEVqdPetRr7zKB9t0b7veNXgWGL1cAzbZAwc1SgXZCMRVEWEeotFkpWZBZADKTbi1ZCPCXEnZBlTi2naaDGDojy4q9gBkZD"
+const PAGE_TOKEN = "EAAP0KOQBsdkBP5ge4mZCDXZAedk2VimjiqgY51nDs2ARtU3rKDe2XZBSJIk0o7fJq4XI39OTYiKVLQ5q42Y5bQ7BqMv8R4ibUlZBIVVwpoRYcFUdCep3CExahObefYpDEfz6IAmnuS80pUekow6rgdRI8loUgvuiBm80RD8E9KcyntEAEGyoGlEoXWdKwpflVv1m1OIZD"
 
 // Fixed schedule times for tomorrow (same as schedule.py)
 const REEL_TIMES = ["00:00", "02:00", "04:00", "06:00"]
